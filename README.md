@@ -215,7 +215,7 @@ autoscaler.run_continuous_monitoring(
 # For infinite monitoring, omit max_cycles:
 # autoscaler.run_continuous_monitoring(interval_seconds=60, namespace='default')
 # Press Ctrl+C to stop
-```
+```--
 
 #### Example 9: Get Scaling Report
 ```python
