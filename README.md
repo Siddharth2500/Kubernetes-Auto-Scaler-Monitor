@@ -194,7 +194,7 @@ for decision in decisions:
     print(f"\n{action}: {decision.deployment}")
     print(f"  {decision.current_replicas} → {decision.target_replicas} replicas")
     print(f"  Reason: {decision.reason}")
-```
+```````
 
 #### Example 7: Run Single Scaling Cycle
 ```python
