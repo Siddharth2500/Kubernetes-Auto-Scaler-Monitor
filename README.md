@@ -45,7 +45,7 @@ An intelligent Kubernetes autoscaling system that monitors pod metrics, evaluate
 **Step 1: Download the file**
 ```bash
 # Save the code as: k8s_autoscaler.py
-```
+```-------
 
 **Step 2: Run it!**
 ```bash
