@@ -2,7 +2,7 @@
 
 ## 🎯 Overview
 An intelligent Kubernetes autoscaling system that monitors pod metrics, evaluates resource utilization, and automatically scales deployments based on CPU and memory thresholds. This **standalone version requires NO external dependencies** - it uses only Python's standard library and simulates Kubernetes operations for demonstration and learning purposes.
-
+---
 ## ✨ Features
 
 ### Core Capabilities
