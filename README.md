@@ -59,7 +59,7 @@ No installations, no Kubernetes cluster, no configuration needed!
 ### Running the Demo
 ```bash
 python k8s_autoscaler.py
-```
+`````
 
 **Expected Output:**
 ```
