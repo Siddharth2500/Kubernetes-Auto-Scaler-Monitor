@@ -86,7 +86,7 @@ Monitoring Cycle #1
 INFO - Evaluating 5 deployments in namespace default
 INFO - ✓ Scaling applied: web-app from 3 to 4 replicas - High CPU usage: 75.3% > 70.0%
 INFO - Scaling cycle complete: 1 actions applied
-```
+``````
 
 ### Using as a Library
 
