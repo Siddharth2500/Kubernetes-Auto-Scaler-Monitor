@@ -30,6 +30,8 @@ An intelligent Kubernetes autoscaling system that monitors pod metrics, evaluate
 - **concurrent concepts**: Simulated async operations
 - **logging**: Comprehensive operational logging
 
+--
+
 ## 📋 Prerequisites
 
 ### System Requirements
