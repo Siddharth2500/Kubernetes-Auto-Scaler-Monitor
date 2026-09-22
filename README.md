@@ -162,7 +162,7 @@ autoscaler = AutoScaler(
     max_replicas=10,            # Never scale above 10
     cooldown_minutes=5          # Wait 5 min between scaling
 )
-```
+``````
 
 #### Example 5: Evaluate Single Deployment
 ```python
